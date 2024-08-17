@@ -1,0 +1,78 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Aleks - Leading Expert Recruitment Specialist</title><style>body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px0;
+            text-align: center;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            margin-top: 0;
+            color: #333;
+        }
+        .intro {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .introp {
+            font-size: 1.2em;
+        }
+        .services {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 30px;
+        }
+        .service {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            width: 30%;
+            text-align: center;
+        }
+        .serviceh2 {
+            color: #333;
+        }
+        .cta {
+            text-align: center;
+            margin: 40px0;
+        }
+        .ctaa {
+            background-color: #333;
+            color: #fff;
+            padding: 10px20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px0;
+            margin-top: 40px;
+        }
+        footerp {
+            margin: 0;
+        }
+        .social-links {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .social-linksa {
+            margin: 010px;
+            color: #333;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+    </style></head><body><header><div class="container"><h1>Aleks - Leading Expert Recruitment Specialist</h1></div></header><section class="container"><div class="intro"><p>Streamline your hiring process with automation. Discover how I can help you use Zapier to create efficient, automated recruitment workflows tailored to your business needs.</p></div><div class="services"><div class="service"><h2>Automation Consultation</h2><p>Get expert advice on how to integrate Zapier into your hiring process, improving efficiency and reducing manual work.</p></div><div class="service"><h2>Custom Zapier Workflows</h2><p>Work with me to design and implement custom Zapier workflows that perfectly fit your recruitment needs.</p></div><div class="service"><h2>Ongoing Support</h2><p>Receive continuous support to ensure your automated systems run smoothly, adapting to any changes in your hiring strategy.</p></div></div><div class="cta"><a href="mailto:jovanovik.pp@gmail.com">Get Started Today</a></div><div class="social-links"><a href="https://www.upwork.com/freelancers/~019defaddc3e89e8cb" target="_blank">Upwork</a><a href="https://www.linkedin.com/in/aleksandar-jovanovic-58a3361b0/" target="_blank">LinkedIn</a></div></section><footer><div class="container"><p>&copy; 2024 Aleks - All Rights Reserved</p></div></footer></body></html>
